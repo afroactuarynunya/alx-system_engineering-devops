@@ -1,1 +1,1 @@
-Script to change owner of file
+Script to create empty file called hello
