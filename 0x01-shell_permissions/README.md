@@ -1,1 +1,1 @@
-Script to give all permission
+Script to set permissions to file
