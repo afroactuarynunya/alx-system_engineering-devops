@@ -1,1 +1,1 @@
-Script to change owner and group
+Script to change owner of file
