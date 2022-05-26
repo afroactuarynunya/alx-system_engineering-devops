@@ -1,1 +1,1 @@
-Script to execute permissions to all directories
+Script to execute permissions to all subdirectories
