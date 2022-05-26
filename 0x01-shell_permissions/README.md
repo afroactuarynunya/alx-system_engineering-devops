@@ -1,1 +1,1 @@
-Script to add permissions
+Script to add multiple permissions
