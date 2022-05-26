@@ -1,1 +1,1 @@
-Script to switch user
+Script to print current user
