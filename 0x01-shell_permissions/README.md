@@ -1,1 +1,1 @@
-Script to print groups user belongs to
+Script to change owner of file
