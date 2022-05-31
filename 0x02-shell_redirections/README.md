@@ -1,1 +1,1 @@
-Script to write into file the result of a command
+Script to duplicate last line of a file
