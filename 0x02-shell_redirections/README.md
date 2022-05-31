@@ -1,1 +1,1 @@
-Script to delete all files with .js extensions
+Script to count number of directories and subdirectories
