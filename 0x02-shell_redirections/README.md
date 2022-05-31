@@ -1,1 +1,1 @@
-Script to display content of two files
+Script to display last 10 lines of file
