@@ -1,1 +1,1 @@
-Script for task 25
+Script for task 24
