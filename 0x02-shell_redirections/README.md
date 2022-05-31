@@ -1,1 +1,1 @@
-Script to display third line of file
+Script to create a file ending by a new line
