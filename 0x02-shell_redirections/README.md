@@ -1,1 +1,1 @@
-Script to count number of directories and subdirectories
+Script to display 10 newest lines in cd
