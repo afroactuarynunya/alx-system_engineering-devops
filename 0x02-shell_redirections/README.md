@@ -1,1 +1,1 @@
-Script to create a file ending by a new line
+Script to write into file the result of a command
